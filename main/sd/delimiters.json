@@ -1,0 +1,19 @@
+{
+  "main": {
+    "sd": {
+      "identity": {
+        "version": {
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
+        },
+        "language": "sd"
+      },
+      "delimiters": {
+        "quotationStart": "“",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "‘",
+        "alternateQuotationEnd": "’"
+      }
+    }
+  }
+}
