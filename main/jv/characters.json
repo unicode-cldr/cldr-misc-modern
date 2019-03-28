@@ -1,19 +1,19 @@
 {
   "main": {
-    "fo": {
+    "jv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14844 $",
+          "_cldrVersion": "35"
         },
-        "language": "fo"
+        "language": "jv"
       },
       "characters": {
-        "exemplarCharacters": "[a á b d ð e f g h i í j k l m n o ó p r s t u ú v y ý æ ø]",
-        "auxiliary": "[c q w x z]",
-        "index": "[A Á B C D Ð E F G H I Í J K L M N O Ó P Q R S T U Ú V W X Y Ý Z Æ Ø]",
-        "numbers": "[, . % ‰ + − 0 1 2 3 4 5 6 7 8 9]",
-        "punctuation": "[\\\\- ‐ – , ; \\\\: ! ? . … ' ‘ ’ \\\" “ ” ( ) \\\\[ \\\\] § @ * / \\\\& # † ′ ″]",
+        "exemplarCharacters": "[a â å b c d e é è ê g h i ì j k l m n o ò p r s t u ù w y]",
+        "auxiliary": "[f q v x z]",
+        "index": "[A Â Å B C D E É È Ê G H I Ì J K L M N O Ò P R S T U Ù W Y]",
+        "numbers": "[\\\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
+        "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
         "ellipsis": {
           "final": "{0}…",
           "initial": "…{0}",
